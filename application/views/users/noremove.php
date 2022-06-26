@@ -1,0 +1,1 @@
+<p>No puede eliminar a un usuario adminstrador</p>
